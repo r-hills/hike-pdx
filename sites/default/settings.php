@@ -217,7 +217,7 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'rh-drupal',
+      'database' => 'hike-pdx',
       'username' => 'rh-admin',
       'password' => 'rh-admin',
       'host' => 'localhost',
